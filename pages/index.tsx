@@ -96,7 +96,7 @@ export default function Home() {
                 </div>
               </div>
               <div className='flex flex-1 flex-col gap-2 w-96'>
-                <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 250 250" style={{ enableBackground: 'new 0 0 250 250' }} xmlSpace="preserve" className="text-violet-500 hover:text-rose-600 text-sm mr-0 w-10 h-10 text-link dark:text-link-dark flex origin-center transition-all ease-in-out" fill="currentColor">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 250 250" enableBackground="new 0 0 250 250" xmlSpace="preserve" className="text-violet-500 hover:text-rose-600 text-sm mr-0 w-10 h-10 text-link dark:text-link-dark flex origin-center transition-all ease-in-out" fill="currentColor">
                   <title>Angular</title>
                   <style type="text/css" dangerouslySetInnerHTML={{ __html: "\n\t.st0{fill:currentColor;}\n\t.st1{fill:currentColor;}\n\t.st2{fill:#FFFFFF;}\n" }} />
                   <g>
